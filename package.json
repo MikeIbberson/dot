@@ -1,5 +1,5 @@
 {
-  "name": "dot",
+  "name": "dot-helpers",
   "version": "1.0.0",
   "description": "Object mapping helpers",
   "main": "lib/index.js",
